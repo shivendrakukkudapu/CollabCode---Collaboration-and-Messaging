@@ -151,8 +151,4 @@ This project is licensed under the [MIT License](LICENSE).
 - **Gemini AI** for intelligent, coding-related assistance.
 - The open-source community for providing inspiration and tools.
 
----
 
-## Contact
-
-For questions or feedback, please contact Revanth Kurapati
